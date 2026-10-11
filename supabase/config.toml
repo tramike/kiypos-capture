@@ -1,0 +1,2 @@
+[functions.submit-payload]
+verify_jwt = false
